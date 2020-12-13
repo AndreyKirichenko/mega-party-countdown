@@ -1,0 +1,25 @@
+.countdown {
+  padding-bottom: 20px;
+}
+
+.countdown__col{ 
+  display: inline-block;
+}
+
+.countdown__element {
+  display: flex;
+  flex-direction: column;
+  margin: 0 16px;
+}
+
+.countdown__value{ 
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.countdown__description {
+  font-size: 14px;
+  font-weight: 300;
+  margin-top: 8px;
+  text-transform: uppercase;
+}

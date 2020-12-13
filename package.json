@@ -1,0 +1,19 @@
+{
+  "name": "sasha-welcome-countdown",
+  "version": "0.0.1",
+  "description": "with love",
+  "repository": "https://github.com/AndreyKirichenko/party-welcome",
+  "devDependencies": {
+    "react-scripts": "0.8.4"
+  },
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
